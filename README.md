@@ -2,7 +2,7 @@
 
 * 매주 일요일 서울역  10시~  12시 
 * 교재: fluent-python 
-  * 참조: Elegant Scipy 등
+  * https://github.com/fluentpython/example-code
 * 진행
   * a) 책을 주교재 삼아 챕터별 진행 (1명, 30분)
   * b) 컴퓨터 사이언스 전반에 걸친 개념 소발제 (각 3~10분)
@@ -17,4 +17,3 @@
 * 벌금
   * 지각(10분 이상 1000원) / 무통보결석(3000원) / 준비X(3000원)
   * 벌금은 deposit에서 차감 (deposit 소멸시 퇴출)
-* 문의처 : https://open.kakao.com/o/gRXoTWZ
